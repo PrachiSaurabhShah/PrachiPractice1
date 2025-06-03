@@ -1,0 +1,2 @@
+Second file
+I am line number two.
